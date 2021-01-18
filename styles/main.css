@@ -1,0 +1,52 @@
+body {
+  background-color: rgb(74, 57, 150);
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+}
+
+header {
+  background: grey;
+  margin: 0;
+  text-align: center;
+}
+
+img {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 7cm;
+  height: 5.2cm;
+  float: right;
+  /* position: absolute; 
+  top: 150px; 
+  right: 80px;  */
+}
+
+.list {
+  color: white;
+}
+
+p {
+  background-color: thistle;
+  color: rgb(26, 24, 24);
+  padding: 10px 10px;
+  line-height: 0.8cm;
+  margin: 0; 
+}
+
+.p2 {
+  background-color: thistle;
+  color: rgb(26, 24, 24);
+  padding: 10px 10px;
+  line-height: 0.8cm;
+  margin-right: 7.5cm;  
+}
+
+h1, h2 {
+  color: aliceblue;
+  margin: 0;
+}
+
+a {
+  color: green;
+}  
+
